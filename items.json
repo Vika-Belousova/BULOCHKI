@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Слойки",
+      "description": "Набор из 6 штук - 360p",
+      "price": 360,
+      "image": "/assets/images-shop/sloyki.png",
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "name": "Круассаны",
+      "description": "Набор из 6 штук - 450p",
+      "price": 360,
+      "image": "/assets/images-shop/kruasansmindalem.png",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "Датская булочка ",
+      "description": "Набор из 6 штук - 570p",
+      "price": 360,
+      "image": "/assets/images-shop/datskaya-bulochka.png",
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "name": "Сладкая улитка ",
+      "description": "Набор из 6 штук - 420p",
+      "price": 360,
+      "image": "/assets/images-shop/Ulitka.png",
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "name": "Синнабон",
+      "description": "Набор из 6 штук - 360p",
+      "price": 360,
+      "image": "/assets/images-shop/sinabon2.png",
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "name": "Ватрушки",
+      "description": "Набор из 6 штук - 360p",
+      "price": 360,
+      "image": "/assets/images-shop/vatrushka.png",
+      "quantity": 0
+    }
+  ],
+  "buckets": []
+}
